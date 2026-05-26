@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.VKStore" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.BasicsCodelab</item>
+    </style>
+
+    <style name="Theme.BasicsCodelab" parent="android:Theme.Material.Light.NoActionBar" />
+
+</resources>
